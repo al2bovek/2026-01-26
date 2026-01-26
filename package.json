@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://al2bovek.github.io/-task-manager/",
+  "homepage": "https://al2bovek.github.io/2026-01-26/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

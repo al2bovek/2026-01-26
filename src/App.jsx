@@ -6,7 +6,7 @@ import EditTask from "./pages/EditTask";
 
 export default function App() {
   return (
-    <BrowserRouter basename="-task-manager/">
+    <BrowserRouter basename="2026-01-26/">
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
