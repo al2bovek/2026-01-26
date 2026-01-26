@@ -10,7 +10,7 @@
     },
     {
       "id": "28e1",
-      "title": "Rest",
+      "title": "Rest...",
       "category": "rest",
       "year": 0,
       "rating": 4,
@@ -31,6 +31,14 @@
       "year": 2026,
       "rating": 5,
       "watched": true
+    },
+    {
+      "id": "4425",
+      "title": "new task",
+      "category": "study",
+      "year": 2026,
+      "rating": 3,
+      "watched": false
     }
   ]
 }
