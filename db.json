@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "ec80",
+      "title": "learn React",
+      "category": "study",
+      "year": 2026,
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": "28e1",
+      "title": "Rest",
+      "category": "rest",
+      "year": 0,
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": "d22f",
+      "title": "React exam",
+      "category": "study",
+      "year": 2026,
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": "235e",
+      "title": "GitHub page build",
+      "category": "study",
+      "year": 2026,
+      "rating": 5,
+      "watched": true
+    }
+  ]
+}
